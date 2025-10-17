@@ -1,0 +1,17 @@
+{
+  "name": "aliyun-oss-upload-api",
+  "version": "1.0.1",
+  "description": "Aliyun OSS Upload API for n8n workflows",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
