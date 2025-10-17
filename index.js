@@ -14,7 +14,7 @@ app.get('/', (req, res) => {
   res.json({
     status: 'ok',
     service: 'Aliyun OSS Signature API',
-    version: '1.0.0'
+    version: '1.0.2-base64-decode-fix'
   });
 });
 
